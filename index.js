@@ -27,3 +27,4 @@ button.addEventListener('click', ()=> {
     })
 	.catch(err => console.error(err));
 })
+console.log('hola');
